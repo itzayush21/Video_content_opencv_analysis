@@ -71,3 +71,11 @@ analysis.
 • A comprehensive graphical report to help improve interview skills and techniques.
 
 # GLIMPSE
+
+
+<img width="686" alt="Screenshot 2024-06-28 at 3 32 19 PM" src="https://github.com/user-attachments/assets/6bd68b9d-8997-4a90-b230-3dd57b731c39">
+
+## Audio Analysis
+
+
+
